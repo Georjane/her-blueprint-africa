@@ -8,10 +8,14 @@ $white: #fff;
 $black: #000;
 $darken: #4a5562;
 
-$primary: #f86f2d;
-$secondary: #fa8f3d;
-$tertiary: #faaa3a;
-$quarternary: #7cbd1e;
+$primary: #6729f9;
+$secondary: #7c46f9;
+$tertiary: #9c72fc;
+$quarternary: #fa8f3d;
+// $primary: #f86-f2d;
+// $secondary: #fa8-f3d;
+// $tertiary: #faa-a3a;
+// $quarternary: #7cb-d1e;
 
 
 @mixin border-radius($radius) {
